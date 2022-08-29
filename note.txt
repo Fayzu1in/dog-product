@@ -1,0 +1,3 @@
+pixel perfect
+tablet: from 800px
+phone: from 420px
